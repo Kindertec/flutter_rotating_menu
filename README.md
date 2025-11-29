@@ -136,7 +136,7 @@ MenuItem(
 
 ## Removing Dependencies
 
-If you want to use this without `hooks_riverpod`, you can convert the `HookConsumerWidget` to a regular `StatefulWidget`. See the `no_riverpod` branch for an example.
+If you want to use this without `hooks_riverpod`, you can convert the `HookConsumerWidget` to a regular `StatefulWidget`.
 
 ## Performance Tips
 

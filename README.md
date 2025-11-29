@@ -17,6 +17,7 @@ A beautiful and interactive rotating circular menu widget for Flutter with physi
   <img src="screenshots/screenshot1.png" width="250" />
   <img src="screenshots/screenshot2.png" width="250" />
   <img src="screenshots/screenshot3.png" width="250" />
+  <img src="screenshots/screenshot4.png" width="250" />
 </p>
 
 ## Installation
